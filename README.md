@@ -47,11 +47,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarPawar-dev&show_icons=true&theme=radical" alt="Sagar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarPawar-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SagarPawar-dev&show_icons=true&theme=radical" alt="Sagar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SagarPawar-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SagarPawar-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SagarPawar-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,7 +65,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SagarPawar-dev&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SagarPawar-dev&color=fe428e&style=for-the-badge" alt="Visitor Count" />
 </p>
